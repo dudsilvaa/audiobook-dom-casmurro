@@ -29,9 +29,9 @@ O objetivo desse projeto é explorar a implementação de uma plataforma interat
 
 ### Links
 
-- Instagram da Hashtag Treinamentos: [Instagram](https://www.instagram.com/hashtagtreinamentos/)
+- [Instagram da Hashtag Treinamentos](https://www.instagram.com/hashtagtreinamentos/)
 
-- Youtube da Hashtag Treinamentos: [Youtube](https://www.youtube.com/hashtag-treinamentos)
+- [Youtube da Hashtag Treinamentos](https://www.youtube.com/hashtag-treinamentos)
 
 ## Meu processo
 
