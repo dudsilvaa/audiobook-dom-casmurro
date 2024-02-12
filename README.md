@@ -10,7 +10,7 @@ Esta é a minha versão de um dos projetos do Intensivão Javascript da Hashtag 
    - [Links](#links)
 - [Meu processo](#meu-processo)
    - [Construído com](#construído-com)
-- [Autor](#autor)
+- [Um pouco sobre mim](#um-pouco-sobre-mim)
 
 ## Visão geral
 
