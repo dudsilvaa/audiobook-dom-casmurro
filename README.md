@@ -1,6 +1,6 @@
-# Intensivão Javascript: Aula 1 - Projeto Aplicativo de Audiobook
+# Intensivão Javascript - Projeto Aplicativo de Audiobook
 
-Esta é a minha versão de um projeto da primeira aula do Intensivão Javascript da Hashtag Treinamentos. Os projetos dos intensivões da Hashtag Treinamentos ajudam você a melhorar suas habilidades de codificação através da construção de projetos intuitivos e interessantes. 
+Esta é a minha versão de um dos projetos do Intensivão Javascript da Hashtag Treinamentos. Os projetos dos intensivões da Hashtag Treinamentos ajudam você a melhorar suas habilidades de codificação através da construção de projetos intuitivos e interessantes. 
 
 ## Índice
 
